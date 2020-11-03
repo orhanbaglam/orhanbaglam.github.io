@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#container1{height:auto; width: 1500px ; border: 0 ; margin:5px 0 ;background:black;}
+#sosyalmedya{height:30px; width:1470px; background-color:#222222; padding-right: 30px;}
+#smsquare{height: 30px; width:30px; float:right}
+header{width:500px ; height:100px ; padding:5px 10px ;border: 0; background-color:black;float: left;}
+header figure{height: 100px ; width: 100px ; border:0 ; float:left ; margin:0 ; padding:0  }
+header aside{height: 100px ; width: 400px ; border: 0 ; float:left ; margin:0 ; padding:0 }
+
+
+main{height: 600px ; width: 1500px ; border:0 ; float:left ; padding-top: 10px; background-color: black;}
+
+
+#menu{height: 40px ; width:900px ; border:0 ;;background-color: #000000; float: left;padding-top: 60px; padding-left: 80px; padding-bottom: 10px;}
+#menu ul{list-style:none; margin:0; padding: 0 }
+#menu ul li{float: left }
+#menu ul li a{display: block; width: 120px ; height: 40px; border-radius: 10px;text-decoration: none; text-align: center;font-size: 12px ;line-height: 40px; color:aliceblue ;background-color: #000000}
+#menu ul li a:hover{color: mediumblue;}
+
+#albumpaper{height:600px; width:600px ; border: 0; background-repeat: no-repeat; ; background-color: lightslategray; float: left; }
+#albums{width:450px ; height:450px; float: left; margin-top: 80px;}
+
+#albumsquare{height: 219px; width:219px; background-color: blanchedalmond; margin:3px; float: left;}
+
+
+
+  
+
